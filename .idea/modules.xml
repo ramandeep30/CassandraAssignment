@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cassandraassigment.iml" filepath="$PROJECT_DIR$/.idea/modules/cassandraassigment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cassandraassigment-build.iml" filepath="$PROJECT_DIR$/.idea/modules/cassandraassigment-build.iml" />
+    </modules>
+  </component>
+</project>
